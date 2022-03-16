@@ -8,7 +8,7 @@ jobs:
   
   crear-acceder-contenedor:
   
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     
     services:
       portal-oficina01:
