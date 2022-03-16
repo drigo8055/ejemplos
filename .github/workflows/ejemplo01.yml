@@ -3,7 +3,7 @@ name: Ejecucion de comandos de Linux
 on:
   push:
     branches:
-      - main
+      - main01
       
 jobs:
   comandos-basicos:
