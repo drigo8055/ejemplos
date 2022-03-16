@@ -3,7 +3,7 @@ name: Ejecucion en un contedor
 on:
   push:
     branches:
-      - main01
+      - main
 jobs:
   
   crear-acceder-contenedor:
