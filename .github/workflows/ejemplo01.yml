@@ -13,8 +13,8 @@ jobs:
       - name: Step 1 - Listado de directorios
         run: ls -la
         
-       - name: Step 2 - Fecha y hora del sistema
-         run: date
+      - name: Step 2 - Fecha y hora del sistema
+        run: date
          
-        - name: Step 3 - Espacio en disco
-          run: df -h
+      - name: Step 3 - Espacio en disco 
+        run: df -h
